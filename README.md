@@ -9,7 +9,7 @@
 - <b>Microsoft Azure Compute and Networking</b>
   - [performing activities on the network: part 1](https://github.com/DylanCore13/activities-network-pt1)
   - [performing activities on the network: part 2](https://github.com/DylanCore13/activities-network-pt2)
-  - [performing activities on the network: part 3]
+  - [performing activities on the network: part 3](https://github.com/DylanCore13/activities-network-pt3)
  
 
 <h2>🤳Connect with me:</h2>
