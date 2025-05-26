@@ -11,7 +11,7 @@
   - [performing activities on the network: part 2](https://github.com/DylanCore13/activities-network-pt2)
   - [performing activities on the network: part 3](https://github.com/DylanCore13/activities-network-pt3)
 - <b>Azure VM Status Monitor & Notification<b/>
-  - [Azure monitor/notify status]()
+  - [azure monitor/notify status](https://github.com/DylanCore13/azure-vm-status-monitor)
  
 
 <h2>🤳Connect with me:</h2>
