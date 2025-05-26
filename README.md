@@ -7,6 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/DylanCore13/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DylanCore13/ticket-lifecycle)
 - <b>Microsoft Azure Compute and Networking</b>
+  - [performing activities on the network: part 1]
+  - [performing activities on the network: part 2]
+  - [performing activities on the network: part 3]
  
 
 <h2>🤳Connect with me:</h2>
