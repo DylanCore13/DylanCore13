@@ -6,9 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/DylanCore13/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/DylanCore13/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DylanCore13/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DylanCore13/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DylanCore13/azure-network-protocols)
+- <b>Microsoft Azure Compute and Networking</b>
+ 
 
 <h2>🤳Connect with me:</h2>
 
