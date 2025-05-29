@@ -10,6 +10,11 @@
   - [performing activities on the network: part 1](https://github.com/DylanCore13/activities-network-pt1)
   - [performing activities on the network: part 2](https://github.com/DylanCore13/activities-network-pt2)
   - [performing activities on the network: part 3](https://github.com/DylanCore13/activities-network-pt3)
+- <b>Azure VM Firewall Management & Port Access Troubleshooting</b>
+  - [Azure VM Manage/Troubleshooting]()
+
+
+
 - <b><b/>
   - 
  
