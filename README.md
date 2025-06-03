@@ -13,7 +13,7 @@
 - <b>Azure VM Firewall Management & Port Access Troubleshooting</b>
   - [Azure VM Manage/Troubleshooting](https://github.com/DylanCore13/Azure-VM-Firewall-Port-Access-)
 - <b>Azure VM Performance Alert & Notification<b/>
-  - [VM Alert/Notification]
+  - [VM Alert/Notification](https://github.com/DylanCore13/VM-Alert-Notification)
  
 
 <h2>🤳Connect with me:</h2>
