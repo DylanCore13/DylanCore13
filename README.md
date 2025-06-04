@@ -14,7 +14,8 @@
   - [Azure VM Manage/Troubleshooting](https://github.com/DylanCore13/Azure-VM-Firewall-Port-Access-)
 - <b>Azure VM Performance Alert & Notification<b/>
   - [VM Alert/Notification](https://github.com/DylanCore13/VM-Alert-Notification)
- 
+- <b>Admin Password Reset & Troubleshooting</b>
+  - [Admin PW Reset]() 
 
 <h2>🤳Connect with me:</h2>
 
