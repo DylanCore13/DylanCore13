@@ -16,15 +16,12 @@
   - [VM Alert/Notification](https://github.com/DylanCore13/VM-Alert-Notification)
 - <b>Admin Password Reset & Troubleshooting</b>
   - [Admin PW Reset](https://github.com/DylanCore13/Admin-PW-Reset)
-- <b>Microsoft Azure Compute and Networking</b>
-  - [performing activities on the network: part 1](https://github.com/DylanCore13/activities-network-pt1)
-  - [performing activities on the network: part 2](https://github.com/DylanCore13/activities-network-pt2)
-  - [performing activities on the network: part 3](https://github.com/DylanCore13/activities-network-pt3)
+
 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Dylan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dylan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/Dylan
-[linkedin]: https://linkedin.com/in/Dylan
+[instagram]: https://www.instagram.com/dylancor13/
+[linkedin]: https://www.linkedin.com/in/dylan-cornejo-94138b356/
