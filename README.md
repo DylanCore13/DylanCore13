@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dylan, an <a href="https://linkedin.com/in/Dylan">IT Beginner</a></h1>
+<h1>Hi, I'm Dylan, an <a href="https://linkedin.com/in/Dylan">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
