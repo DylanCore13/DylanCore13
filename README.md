@@ -19,7 +19,7 @@
 - <b>Active Directory (Deploying/Managing the infrastructure) </b>
   - [Active Directory: Preparing Infrastructure](https://github.com/DylanCore13/Active-Directory-Preparing-Infrastructure.git)
   - [Active Directory: Deployment](https://github.com/DylanCore13/Active-Directory-Deployment-)
-  - [Active Directory: Creating Users]
+  - [Active Directory: Creating Users](https://github.com/DylanCore13/Active-Directory-Creating-Users/tree/main)
   - [Active Directory: Group Policy and Managing Accounts]
 
 
