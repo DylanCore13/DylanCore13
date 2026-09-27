@@ -22,7 +22,7 @@
   - [Active Directory: Creating Users](https://github.com/DylanCore13/Active-Directory-Creating-Users/tree/main)
   - [Active Directory: Group Policy and Managing Accounts](https://github.com/DylanCore13/Active-Directory-Group-Policy-and-Managing-Accounts)
 - <b>Microsoft Entra ID Help Desk Labs</b>
-  - [Entra ID Credentials Reset](https://github.com/DylanCore13/Entra-ID-Password-Reset-Lab/blob/main/README.md)
+  - [Entra-ID Password Reset-Lab](https://github.com/DylanCore13/Entra-ID-Password-Reset-Lab/blob/main/README.md)
 
 
 <h2>🤳Connect with me:</h2>
